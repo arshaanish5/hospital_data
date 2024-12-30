@@ -1,0 +1,50 @@
+[
+  {
+    "hospital_id": 1,
+    "name": "City General Hospital",
+    "patientCount": 120,
+    "location": "New York"
+  },
+  {
+    "hospi{tal_id": 2,
+    "name": "Green Valley Medical Center",
+    "patientCount": 85,
+    "location": "Los Angeles"
+  },
+  {
+    "hospital_id": 3,
+    "name": "Sunrise Health Clinic",
+    "patientCount": 45,
+    "location": "Chicago"
+  },
+  {
+    "hospital_id": 4,
+    "name": "Blue Mountain Hospital",
+    "patientCount": 60,
+    "location": "Denver"
+  },
+  {
+    "hospital_id": 5,
+    "name": "Lakeside Community Hospital",
+    "patientCount": 150,
+    "location": "Seattle"
+  },
+  {
+    "hospital_id": 6,
+    "name": "CNK Health Clinic",
+    "patientCount": 89,
+    "location": "Los-Angelo"
+  },
+  {
+    "hospital_id": 7,
+    "name": "SH Medical Center",
+    "patientCount": 118,
+    "location": "England"
+  },
+  {
+    "hospital_id": 8,
+    "name": "KIMS",
+    "patientCount": 45,
+    "location": "US"
+  }
+]
